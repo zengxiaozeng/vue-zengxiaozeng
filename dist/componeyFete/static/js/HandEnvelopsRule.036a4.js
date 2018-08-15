@@ -1,0 +1,1 @@
+webpackJsonp([6],{SGcu:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("section",{staticClass:"handEnvelops-page-rule"})},staticRenderFns:[]};var l=t("Z0/y")(null,s,!1,function(e){t("fQYO")},null,null);n.default=l.exports},fQYO:function(e,n){}});
